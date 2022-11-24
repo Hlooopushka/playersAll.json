@@ -1,0 +1,58 @@
+[
+{ 
+"avatar_url": "https://avatars.githubusercontent.com/u/1?v=4",
+"id": 1,
+"login": "Hlopushka",
+"team_power": "5052",
+"role":"leader",
+"highest_trophies": "2857",
+"titan_def": "Dragon Rooster 11*",
+"best_heroe": "Bastet",
+"five_heroes": "25",
+"four_heroes": "25",
+"three_heroes": "25",
+"strong_holl": "25lvl"
+},
+{
+"avatar_url": "https://avatars.githubusercontent.com/u/2?v=4",
+"login": "TSH",
+"id": 2,
+"team_power": "4887",
+"role":"elder",
+"highest_trophies": "2573",
+"titan_def": "Dragon Rooster 10*",
+"best_heroe": "Nadezhda",
+"five_heroes": "25",
+"four_heroes": "25",
+"three_heroes": "25",
+"strong_holl": "25lvl"
+},
+{
+"avatar_url": "https://avatars.githubusercontent.com/u/3?v=4",
+"login": "Little Queen",
+"id": 3,
+"team_power": "4484",
+"role":"elder",
+"highest_trophies": "2542",
+"titan_def": "Gibiskys 12*",
+"best_heroe": "Thorne",
+"five_heroes": "25",
+"four_heroes": "25",
+"three_heroes": "25",
+"strong_holl": "25lvl"
+},
+{
+"avatar_url": "https://avatars.githubusercontent.com/u/4?v=4",
+"login": "Staruha",
+"id": 4,
+"team_power": "4165",
+"role":"member",
+"highest_trophies": "1678",
+"titan_def": "Gibiskys 9*",
+"best_heroe": "Kadilen",
+"five_heroes": "25",
+"four_heroes": "25",
+"three_heroes": "25",
+"strong_holl": "25lvl"
+}
+]
